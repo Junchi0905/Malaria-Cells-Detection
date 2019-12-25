@@ -12,4 +12,3 @@ is, this is a Multi-Label classification problem.
 If a model can successfully identify these types of cells from images taken with a microscope, 
 this would allow to automate a very time-consuming testing process, leaving human doctors with more time to 
 treat the actual disease. Furthermore, an early malaria detection can save lives!
-![image](https://github.com/Junchi0905/Malaria-Cells-Detection/blob/master/cell.jpg)
